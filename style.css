@@ -35,3 +35,17 @@ main {
     justify-content: center;
     margin: 90px 0;
 }
+
+img {
+    height: 265px;
+    width: 285px;
+
+}
+
+h3 {
+    padding: 20px 0;
+}
+
+h4 {
+    padding: 20px 0;
+}
